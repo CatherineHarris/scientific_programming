@@ -4,5 +4,5 @@ python: # which versions of python should the code be tested in
 # command to install dependencies
 # command to run tests
 script:
-    - cd execises/solutions
+    - cd exercises/solutions
     - pytest
